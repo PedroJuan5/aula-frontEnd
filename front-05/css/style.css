@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background: #778899;
+}   
+
+.container {
+    max-width: 350px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0 auto;
+}
+
+.container h1, h2 {
+    font-size: 18px;
+    color: black;
+    padding: 10px;
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.form-control label {
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+}
+
+.form-control input {
+    border: 2px solid #363636;
+    padding: 3px;
+    
+}
+
+button {
+    margin: 10px;
+    background: #D3D3D3;
+    color: #fff;
+    padding: 5px;
+    cursor: pointer;
+}
