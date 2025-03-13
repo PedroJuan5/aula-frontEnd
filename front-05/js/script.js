@@ -26,7 +26,6 @@ function somar(event) {
     resultado.innerHTML = resultadoSoma;
 
 
-
     //Limpar campos
     limparCampos();
 
