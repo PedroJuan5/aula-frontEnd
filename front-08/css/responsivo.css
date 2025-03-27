@@ -1,0 +1,41 @@
+/*mobile*/
+@media screen and (max-width: 480px) {
+    body {
+        background: green;
+    }
+}
+
+/*Extra small devices*/
+@media (min-width: 481px) and (max-width:767) {
+    body {
+        background: yellow;
+    }
+}
+
+/*Small Tablet*/
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        background: pink;
+    }
+}
+
+/*Tablet/Laptops*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        background: blue;
+    }
+}
+
+/*Desktops*/
+@media (min-width: 1200px) and (max-width: 1999px) {
+    body {
+        background: red;
+    }
+}
+
+/*Extra Large*/
+@media (min-width: 1920px) {
+    body {
+        background: blueviolet;
+    }
+}
